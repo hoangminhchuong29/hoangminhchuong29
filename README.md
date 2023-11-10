@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hoangminhchuong29
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning Python and JavaScipt.
-- 💞️ I’m looking to collaborate on web development projects that use Django or React frameworks.
+- 💞️ I’m looking to collaborate on web development projects that use Django or Flask frameworks.
 - 📫 How to reach me hoangminhchuong29@gmail.com or on Twitter at @MinhChuong10152
 
 <!---
